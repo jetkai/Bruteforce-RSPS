@@ -1,8 +1,11 @@
 lists/*
 out/*
-build/*
+build/classes/*
+build/kotlin/*
+build/tmp/*
+build/distributions/*
+build/generated/*
+build/scripts/*
 .idea/*
 .gradle/*
 success/*
-
-!build/libs/*
