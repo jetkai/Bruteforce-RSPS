@@ -1,0 +1,6 @@
+lists/*
+out/*
+build/*
+.idea/*
+.gradle/*
+success/*
